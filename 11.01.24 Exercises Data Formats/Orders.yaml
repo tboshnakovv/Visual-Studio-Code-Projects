@@ -1,0 +1,41 @@
+<products>
+        <type>"Laptop"</type>
+        <name>Dell XPS 13</name>
+        <details>
+            <display>13.4-inch</display>
+        </details>
+        <price>1200</price>
+    </product>
+    
+        <type>"Smartphone">
+        <name>Apple iPhone 12</name>
+        <details>
+            <storage>64GB</storage>
+        </details>
+        <price>799</price>
+    </product>
+
+    <product category="Tablet">
+        <name>Samsung Galaxy Tab S7</name>
+        <details>
+            <screen>11-inch</screen>
+        </details>
+        <price>650</price>
+    </product>
+
+    <product category="Headphones">
+        <name>Bose QuietComfort 35 II</name>
+        <details>
+            <feature>Noise-cancelling</feature>
+        </details>
+        <price>299</price>
+    </product>
+
+    <product category="Camera">
+        <name>Canon EOS Rebel T7 DSLR</name>
+        <details>
+            <megapixels>24.1 MP</megapixels>
+        </details>
+        <price>449</price>
+    </product>
+</products>
